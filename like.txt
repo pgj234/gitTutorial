@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 like yes 타이거 추가
+=======
+like yes tiger
+>>>>>>> tiger
