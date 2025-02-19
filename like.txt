@@ -1,3 +1,4 @@
 like yes 타이거 추가
 
 push를 확인해보자
+pull을 확인해보자
